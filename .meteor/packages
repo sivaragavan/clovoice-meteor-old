@@ -21,3 +21,8 @@ react-meteor-data
 accounts-ui
 accounts-password
 practicalmeteor:mocha
+twbs:bootstrap
+kadira:flow-router
+peerlibrary:aws-sdk
+fortawesome:fontawesome
+
